@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "letterbox"
   gem.homepage = "http://github.com/joelvh/letterbox"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Easily send transactional and scheduled emails based on application-specific criteria}
+  gem.description = %Q{Easily send transactional and scheduled emails based on application-specific criteria}
   gem.email = "joel@joelvanhorn.com"
   gem.authors = ["Joel Van Horn"]
   # dependencies defined in Gemfile
